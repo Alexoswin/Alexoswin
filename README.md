@@ -1,45 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Oswin%20Alex&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%40%20mple.ai%20%7C%20Mumbai%2C%20India&descAlignY=78&descSize=16" />
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Oswin+Alex" alt="Oswin Alex" />
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+mple.ai;NestJS+%7C+NextJS+%7C+MongoDB;AI+Platform+%26+Agentic+Systems;Real-Time+%26+WebSocket+Architecture" alt="Role Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=NestJS+%7C+NextJS+%7C+MongoDB+%7C+TypeScript;AI+Platform+%26+Agentic+Learning+Systems;Real-Time+WebSocket+%26+Avatar+Experiences;Building+things+that+think+and+scale." alt="Typing SVG" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oswinalex.site-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://oswinalex.site)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-oswinalex.site-7C3AED?style=for-the-badge)](https://oswinalex.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oswin--alex-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oswin-alex)
-[![Email](https://img.shields.io/badge/Email-oswinalex1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oswinalex1@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-oswinalex1-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oswinalex1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Alexoswin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexoswin)
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alexoswin&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" width="400"/>
+<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Alexoswin&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&count_private=true" />
 
 ### `whoami`
 
 ```yaml
+name:    Oswin Alex
 role:    Software Engineer @ mple.ai
 base:    Mumbai, India
+
 focus:
-  - Agentic AI Systems
+  - Agentic AI & Roleplay Systems
   - Scalable Backend Architectures
   - Real-Time WebSocket Experiences
-  - Analytics & Observability
+  - Analytics Pipelines & Observability
+
 awards:
-  - Smart India Hackathon 2023 — Winner
-  - Innovex 2025 — 1st Place
-  - Frappe Framework — Open Source Contributor
+  - 🥇 Smart India Hackathon 2023
+  - 🥇 Innovex 2025 — 1st Place
+  - 🔧 Frappe Framework OSS Contributor
+
 cert:    AWS Cloud Foundations
 ```
 
@@ -47,87 +46,80 @@ cert:    AWS Cloud Foundations
 
 ---
 
-### Current Mission
+### ⚡ Current Mission
 
-> Building AI-powered platforms that simulate real-world sales and customer service interactions — roleplay engines, persona systems, live avatar experiences, and the pipelines that power them.
-
----
-
-### Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</td>
-</tr>
-</table>
+> Building AI-powered platforms that simulate real-world sales and customer interactions — roleplay engines, live AI avatar systems, persona customization, and the backend pipelines that hold it all together.
 
 ---
 
-### Open Source
-
-**[Frappe Framework — PR #36145](https://github.com/frappe/frappe/pull/36145)**
-
-Fixed a critical OAuth2 refresh token issue where requests returned `403 Forbidden` due to permission validation errors under guest context. Implemented `ignore_permissions=True`, aligned with RFC 6749, and shipped with automated test coverage.
-
----
-
-### GitHub Activity
+### 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexoswin&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7C3AED&line=22D3EE&point=FFFFFF" width="100%" />
+**Languages & Runtimes**
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Alexoswin&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=94A3B8" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexoswin&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&text_color=94A3B8" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Alexoswin/Alexoswin/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark&perline=8" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Alexoswin&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongo,mysql&theme=dark&perline=8" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter&theme=dark&perline=8" />
+
+<br/><br/>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,git,linux&theme=dark&perline=8" />
+
+</div>
+
+---
+
+### 🔓 Open Source
+
+**[frappe/frappe — PR #36145](https://github.com/frappe/frappe/pull/36145)**
+
+Fixed a production OAuth2 refresh token bug returning `403 Forbidden` under guest context. Root cause was token validation methods accessing Bearer Token documents without `ignore_permissions=True`. Patched to RFC 6749 spec, shipped with automated test coverage.
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexoswin&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7C3AED&line=22D3EE&point=FFFFFF&area_color=7C3AED" width="100%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Alexoswin&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=555F6E" width="49%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexoswin&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&text_color=94A3B8&langs_count=6" width="46%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexoswin/Alexoswin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexoswin/Alexoswin/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Alexoswin/Alexoswin/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alexoswin&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
 </div>
