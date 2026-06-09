@@ -1,140 +1,241 @@
 <div align="center">
 
-# Hey 👋 I'm Oswin Alex
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E293B,100:334155&text=OSWIN%20ALEX&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;NestJS+%7C+Next.js+Developer;Building+AI+Powered+Products;Open+Source+Contributor;Smart+India+Hackathon+Winner" />
+# Software Engineer
+
+### Building AI-Powered Products • Full Stack Applications • Real-Time Systems
 
 </div>
 
 ---
 
-<div align="center">
+## $ whoami
 
-### 🚀 Building AI Products, Scalable APIs & Full Stack Applications
+```bash
+Name        : Oswin Alex
+Location    : Mumbai, India
 
-</div>
+Current Role:
+Software Engineer @ mple.ai
+
+Focus Areas:
+- AI Powered Applications
+- Agentic Workflows
+- Full Stack Development
+- Real Time Systems
+- Cloud Infrastructure
+
+Backend:
+NestJS
+Node.js
+Express.js
+
+Frontend:
+Next.js
+React.js
+TypeScript
+
+Database:
+MongoDB
+MySQL
+
+Cloud:
+AWS
+Docker
+Jenkins
+```
+
+---
+
+## About
+
+I'm a software engineer focused on building production-grade applications that combine scalable backend systems, modern frontend experiences, and AI-driven workflows.
+
+Currently working on AI-powered training and simulation platforms, real-time communication systems, analytics dashboards, and intelligent automation solutions.
+
+---
+
+## Experience
+
+### Software Engineer — mple.ai
+
+**2025 — Present**
+
+Building AI-powered sales training and agentic learning systems.
+
+Key areas:
+
+- AI avatar interactions
+- Real-time communication
+- Analytics platforms
+- Scalable NestJS APIs
+- MongoDB aggregation pipelines
+- Performance optimization
+- Production debugging
+- Feature ownership from design to deployment
+
+---
+
+## Open Source
+
+### Frappe Framework
+
+Contributed an OAuth2 authentication fix that resolved refresh token permission issues and improved standards compliance.
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Edema Assessment Platform
+
+AI-powered healthcare assessment system.
+
+Features:
+
+- AI doctor avatar
+- Interactive conversations
+- Automated report generation
+- Clinical scoring workflows
+
+Stack:
+
+Next.js • NestJS • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🏥 Centralized De-Addiction Platform
+
+Digital rehabilitation management platform.
+
+Features:
+
+- RBAC
+- Patient tracking
+- Appointment management
+- Center discovery
+
+Stack:
+
+React • Node.js • MongoDB
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR3N3N4ZnI5emNjZG1hM2tvODF3a2dmbjdhM3l4MnQzMjE3cGIxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<table>
+<tr>
+<td width="50%">
 
-### 👨‍💻 About Me
+### 📊 Recovery Prediction System
 
-- 💼 Software Engineer @ mple.ai
-- 🤖 Building AI-powered sales training platforms
-- 🌱 Exploring Agentic AI & LLM Applications
-- 🔭 Working with NestJS, Next.js, MongoDB & AWS
-- 🏆 Smart India Hackathon Winner
-- 🏆 Innovex 2025 Winner
-- ❤️ Open Source Contributor
-- 📫 oswinalex1@gmail.com
+Machine learning platform for addiction recovery analysis.
 
-<br clear="right"/>
+Features:
+
+- Data analytics
+- Predictive modeling
+- Recovery forecasting
+
+Stack:
+
+Python • Pandas • Scikit-Learn
+
+</td>
+
+<td width="50%">
+
+### 🚀 AI Training Systems
+
+Current work focused on:
+
+- Agentic workflows
+- Real-time AI interactions
+- Sales simulations
+- Learning analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## Achievements
+
+🏆 Smart India Hackathon Winner
+
+🏆 Innovex 2025 Winner
+
+🚀 Yukti Startup Innovation Challenge Finalist
+
+🌟 Open Source Contributor
+
+---
+
+## Current Focus
+
+```typescript
+const oswin = {
+  building: [
+    "AI Training Platforms",
+    "Agentic Applications",
+    "Scalable Backend Systems",
+    "Real-Time Experiences"
+  ],
+
+  learning: [
+    "Advanced AI Workflows",
+    "Cloud Architecture",
+    "System Design"
+  ],
+
+  openTo: [
+    "Open Source",
+    "Collaboration",
+    "Interesting Problems"
+  ]
+}
+```
+
+---
+
+## GitHub Activity
 
 <p align="center">
-<a href="https://linkedin.com/in/oswin-alex">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Alexoswin">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://oswinalex.site">
-🌍 Portfolio
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alexoswin&bg_color=0f172a&color=ffffff&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## Connect
 
-<div align="center">
+```yaml
+email: oswinalex1@gmail.com
 
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,react,typescript,javascript,mongodb,mysql,docker,aws,git,linux,jenkins,python,java" />
+linkedin:
+  linkedin.com/in/oswin-alex
 
-</div>
+portfolio:
+  oswinalex.site
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexoswin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexoswin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexoswin&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 Smart India Hackathon Winner
-- 🥇 Innovex 2025 Winner
-- 🚀 Yukti Startup Innovation Challenge Finalist
-- 🌟 Open Source Contributor to Frappe Framework
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Based Edema Assessment Platform
-
-- AI Doctor Avatar
-- Real-time Chat
-- Automated Medical Reports
-- Next.js + NestJS + MongoDB
-
----
-
-### 🏥 Centralized De-Addiction Centers System
-
-- RBAC
-- Patient Management
-- Interactive Maps
-- React + Node.js + MongoDB
-
----
-
-### 📈 Drug Recovery Prediction System
-
-- Machine Learning
-- Data Analytics
-- Predictive Modeling
-- Python + Scikit-Learn
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Alexoswin/Alexoswin/blob/output/github-contribution-grid-snake.svg)
+github:
+  github.com/Alexoswin
+```
 
 ---
 
 <div align="center">
 
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Alexoswin&label=Visitors&color=0e75b6&style=for-the-badge"/>
+### Code • Build • Learn • Repeat
 
 </div>
 
----
-
-<div align="center">
-
-### ⚡ "Code. Build. Learn. Repeat."
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E293B,100:334155"/>
