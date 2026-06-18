@@ -1,320 +1,79 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E293B,100:0EA5E9&text=OSWIN%20ALEX&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:07050F,40:1E0A4C,100:3B0764&text=OSWIN%20ALEX&fontSize=72&fontAlignY=42&fontColor=E0E7FF&animation=fadeIn&desc=Full+Stack+Engineer+%7C+AI+%26+Agentic+Systems&descSize=20&descAlignY=65&descFontColor=A78BFA" />
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Software+Engineer+%40+mple.ai;Full+Stack+Developer;AI+%26+Agentic+Systems+Builder;Open+Source+Contributor;Smart+India+Hackathon+Winner" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Alexoswin&style=for-the-badge&color=blue" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+AI+Systems+%26+Agentic+Workflows;Full+Stack+%E2%80%94+React+%2F+NestJS+%2F+MongoDB;Open+Source+Contributor;Smart+India+Hackathon+Winner+%F0%9F%8F%86" />
 
-<a href="https://github.com/Alexoswin">
-<img src="https://img.shields.io/github/followers/Alexoswin?style=for-the-badge&logo=github" />
-</a>
+<br/>
 
-<a href="https://linkedin.com/in/oswin-alex">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://oswinalex.site">
-<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=Alexoswin&style=flat-square&color=7C3AED&label=Profile+Views)](https://github.com/Alexoswin)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Alexoswin?style=flat-square&logo=github&color=7C3AED)](https://github.com/Alexoswin)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oswin--alex-7C3AED?style=flat-square&logo=linkedin)](https://linkedin.com/in/oswin-alex)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-oswinalex.site-7C3AED?style=flat-square&logo=vercel)](https://oswinalex.site)
 
 </div>
 
 ---
 
-# 🌌 About Me
-
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R0Nm9nNjR4dGJ3MzE3NHB0YjQ1NGNxd2xkb2JwMTRxOGN4bGNxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+## `whoami`
 
 ```ts
 const oswin = {
-  role: "Software Engineer",
-  company: "mple.ai",
-  location: "Mumbai, India",
-
-  languages: [
-    "TypeScript",
-    "JavaScript",
-    "Python",
-    "Java"
-  ],
-
-  frontend: [
-    "React",
-    "Next.js",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "NestJS",
-    "Express.js"
-  ],
-
-  databases: [
-    "MongoDB",
-    "MySQL"
-  ],
-
-  cloud: [
-    "AWS",
-    "Docker",
-    "Jenkins"
-  ],
-
-  currentFocus: [
-    "Agentic AI",
-    "AI Learning Systems",
-    "Scalable Backend Systems",
-    "Real-Time Communication"
-  ]
-}
+  location   : "Mumbai, India 🇮🇳",
+  focus      : ["Agentic AI", "Real-Time Systems", "Scalable Backends"],
+  stack      : {
+    frontend : ["React", "Next.js", "Tailwind CSS"],
+    backend  : ["NestJS", "Node.js", "Express"],
+    db       : ["MongoDB", "MySQL"],
+    infra    : ["AWS", "Docker", "Jenkins"],
+  },
+  openSource : "Frappe Framework Contributor — OAuth2 RFC fix, merged ✅",
+  awards     : ["🏆 Smart India Hackathon Winner", "🏆 Innovex 2025 Winner"],
+};
 ```
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,typescript,javascript,mongodb,mysql,aws,docker,git,github,linux,python,java,flutter&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,nestjs,mongodb,mysql,aws,docker,python,git&perline=6" />
 
 </div>
 
 ---
 
-# ⚡ What I'm Building
-
-```yaml
-Current Company:
-  mple.ai
-
-Working On:
-  - AI Powered Learning Platform
-  - Agentic AI Workflows
-  - Real Time AI Avatars
-  - Analytics Dashboards
-
-Backend:
-  - NestJS
-  - Node.js
-  - MongoDB
-  - WebSockets
-
-Frontend:
-  - React.js
-  - Next.js
-  - TailwindCSS
-```
-
----
-
-# 🏆 Achievements
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🥇 Smart India Hackathon Winner
-
-Built a centralized rehabilitation
-management platform with:
-
-✔ Role Based Access Control
-
-✔ Real Time Monitoring
-
-✔ Patient Management
-
-✔ Scalable Architecture
-
-</td>
-
-<td width="50%">
-
-## 🥇 Innovex 2025 Winner
-
-Built:
-
-### LawQuest
-
-Gamified legal awareness platform
-for school students.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌟 Open Source Contributions
-
-## Frappe Framework Contributor
-
-Merged contribution fixing OAuth2 Refresh Token authentication.
-
-### Impact
-
-✔ Fixed 403 Refresh Token Failures
-
-✔ OAuth RFC Compliance
-
-✔ Added Automated Tests
-
-✔ Improved Authentication Reliability
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Based Edema Assessment System
-
-### Stack
-
-```bash
-Next.js
-NestJS
-MongoDB
-TailwindCSS
-OpenAI
-```
-
-### Features
-
-- AI Doctor Avatar
-- AI Generated Reports
-- Real Time Assessment
-- Intelligent Recommendations
-
----
-
-## 🏥 Centralized De-Addiction Centers System
-
-### Stack
-
-```bash
-React.js
-Node.js
-MongoDB
-TypeScript
-Leaflet.js
-```
-
-### Features
-
-- RBAC
-- Center Management
-- Patient Tracking
-- Appointment Scheduling
-- Geo Location Services
-
----
-
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexoswin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexoswin&theme=tokyonight" />
+&nbsp;
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexoswin&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexoswin&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Alexoswin&theme=midnight-purple&hide_border=true&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexoswin&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## Trophies
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Alexoswin&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexoswin&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌌 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Alexoswin/Alexoswin/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Alexoswin/Alexoswin/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📊 Detailed Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexoswin&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alexoswin&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-```text
-✓ Contribute more to Open Source
-✓ Build AI Native Products
-✓ Master Distributed Systems
-✓ Scale Production Applications
-✓ Grow Engineering Leadership
-```
-
----
-
-# ☕ Connect With Me
-
-<div align="center">
-
-<a href="mailto:oswinalex1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/oswin-alex">
-<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Alexoswin">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://oswinalex.site">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Alexoswin&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -322,8 +81,6 @@ Leaflet.js
 
 <div align="center">
 
-## ⚡ Building AI Systems, Scalable Backends & Open Source Solutions
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:1E293B,100:0EA5E9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07050F,40:1E0A4C,100:3B0764" />
 
 </div>
