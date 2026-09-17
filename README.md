@@ -8,6 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oswin--alex-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswin-alex-727773260/)
 [![Email](https://img.shields.io/badge/Email-oswinalex1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oswinalex1@gmail.com)
 
+<br/>
+
+![Visits](https://komarev.com/ghpvc/?username=Alexoswin&style=for-the-badge&color=2EA043&label=VISITS)
+![Unique Visitors](https://img.shields.io/badge/UNIQUE_VISITORS-Private-6e7681?style=for-the-badge)
+
 </div>
 
 <br/>
@@ -39,11 +44,11 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
 
 <br/>
 
 <div align="center">
-<sub>mumbai, india · usually up at odd hours making a small idea look better than it needs to</sub>
+  <sub>mumbai, india · usually up at odd hours making a small idea look better than it needs to</sub>
 </div>
