@@ -4,8 +4,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oswinalex.site-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/in/oswin-alex-727773260/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oswin--alex-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oswin-alex)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oswinalex.site-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://oswinalex.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oswin--alex-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswin-alex-727773260/)
 [![Email](https://img.shields.io/badge/Email-oswinalex1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oswinalex1@gmail.com)
 
 </div>
