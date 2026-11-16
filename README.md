@@ -1,6 +1,20 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=console.log(%22hey%2C+I'm+Oswin%22);building+things+that+talk+back;probably+debugging+something+right+now" alt="Typing SVG" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=console.log(%22hey%2C+I'm+Oswin%22);building+things+that+talk+back;probably+debugging+something+right+now"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1A7F37&center=true&vCenter=true&width=600&lines=console.log(%22hey%2C+I'm+Oswin%22);building+things+that+talk+back;probably+debugging+something+right+now"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=console.log(%22hey%2C+I'm+Oswin%22);building+things+that+talk+back;probably+debugging+something+right+now"
+    alt="Hey, I'm Oswin"
+  />
+</picture>
 
 <br/>
 
@@ -37,14 +51,28 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexoswin&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexoswin&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexoswin&theme=default&hide_border=true&background=FFFFFF&ring=1A7F37&fire=1A7F37" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexoswin&theme=default&hide_border=true" />
+</picture>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
+
 </div>
 
 <br/>
